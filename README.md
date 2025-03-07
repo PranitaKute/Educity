@@ -1,9 +1,33 @@
+# Educity 🎓  
 
-# React + Vite
+## 🌐 Live Demo  
+🚀 Check out the website here: [Educity on Netlify](https://educityuniversity.netlify.app/)  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🛠️ Technologies Used  
+- React.js ⚛️  
+- HTML5 📄  
+- CSS3 🎨  
 
-Currently, two official plugins are available:
+## 📱 Responsive Design  
+This website is fully responsive and works across different screen sizes.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎥 Screen Recording  
+Here's a demonstration of the website in action:  
+
+🎥 [Watch the Demo](https://youtu.be/UpQ2FoXLLCo)
+
+## 📌 Features  
+✅ Interactive Navbar  
+✅ Beautiful Hero Section  
+✅ Programs & Course Details  
+✅ Testimonials Section  
+✅ Video Player with Play/Pause  
+✅ Fully Responsive Design  
+
+## 📥 Installation  
+To run this project locally: 
+```bash
+git clone https://github.com/PranitaKute/Educity.git
+cd Educity
+npm install
+npm start
